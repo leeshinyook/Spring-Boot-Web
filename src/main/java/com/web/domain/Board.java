@@ -1,6 +1,7 @@
 package com.web.domain;
 
 
+import com.web.domain.enums.BoardType;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,1 +1,15 @@
 
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id:
+            client-secret:
+
+custom:
+  oauth2:
+    kakao:
+      client-id:
